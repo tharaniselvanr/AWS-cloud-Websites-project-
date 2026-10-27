@@ -32,3 +32,9 @@ Project Flow
 4. The website uses RDS MySQL for database operations.
 5. S3 is used for storing files and objects.
 6. CloudWatch monitors the AWS resources and their performance.
+
+Project Objective
+
+The main objective of this project is to host a dynamic PHP website on AWS with database connectivity, storage, load balancing, and monitoring.
+
+This project demonstrates how different AWS services can work together to provide a reliable and scalable cloud-based website.

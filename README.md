@@ -52,3 +52,12 @@ Technologies Used
 - Amazon S3
 - Amazon CloudWatch
 - Amazon VPC
+ 
+Key Features
+
+- Dynamic PHP website hosting on AWS EC2
+- Application Load Balancer for handling user requests
+- MySQL database integration using Amazon RDS
+- File and object storage using Amazon S3
+- Private network configuration using Amazon VPC
+- Resource monitoring using Amazon CloudWatch

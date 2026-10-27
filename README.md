@@ -38,3 +38,17 @@ Project Objective
 The main objective of this project is to host a dynamic PHP website on AWS with database connectivity, storage, load balancing, and monitoring.
 
 This project demonstrates how different AWS services can work together to provide a reliable and scalable cloud-based website.
+ 
+Technologies Used
+
+- AWS Cloud
+- PHP
+- MySQL
+- HTML
+- CSS
+- Amazon EC2
+- Application Load Balancer
+- Amazon RDS
+- Amazon S3
+- Amazon CloudWatch
+- Amazon VPC

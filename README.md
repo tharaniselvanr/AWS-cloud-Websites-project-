@@ -61,3 +61,7 @@ Key Features
 - File and object storage using Amazon S3
 - Private network configuration using Amazon VPC
 - Resource monitoring using Amazon CloudWatch
+ 
+Conclusion
+
+This project demonstrates the deployment of a dynamic PHP website using AWS cloud services. It integrates compute, database, storage, networking, load balancing, and monitoring services to build a reliable cloud-based application.

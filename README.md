@@ -23,3 +23,12 @@ AWS Services Used
 - RDS MySQL – Stored and managed the website database.
 - S3 – Used for file and object storage.
 - CloudWatch – Monitored AWS resources and performance.
+
+Project Flow
+
+1. User sends a request to access the website.
+2. Application Load Balancer receives the request and forwards it to the EC2 instance.
+3. The PHP website runs on the EC2 server.
+4. The website uses RDS MySQL for database operations.
+5. S3 is used for storing files and objects.
+6. CloudWatch monitors the AWS resources and their performance.

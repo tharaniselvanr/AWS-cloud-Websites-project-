@@ -1,0 +1,23 @@
+sudo apt update
+sudo apt install nginx -y
+sudo systemctl start nginx
+sudo systemctl enable nginx
+
+cd /var/www/html
+sudo nano index.html
+
+sudo systemctl status nginx
+http://<EC2-Public-IP>
+
+
+
+
+aws-website-hosting-monitoring/
+│
+├── README.md
+├── website/
+│   └── index.html
+├── nginx/
+│   └── nginx-setup.sh
+└── monitoring/
+    └── cloudwatch-alarm-notes.md
